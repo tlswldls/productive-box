@@ -48,4 +48,4 @@ This project uses GitHub graphQL API to get the commit histories and write into 
    - **GH_TOKEN:** The GitHub token generated above.
 1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
 
-순서대로 하긴 했는데 왜 안되는건지 모르겠삼
+
